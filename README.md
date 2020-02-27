@@ -1,7 +1,7 @@
 # Docker-compose files for a simple uptodate
 # InfluxDB
 # + Grafana stack
-# + Telegraf
+# + Telegraf (removed)
 
 Get the stack (only once):
 
